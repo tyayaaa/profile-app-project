@@ -1,2 +1,1 @@
-# Dicoding Submission:
-Proyek deploy aplikasi profile
+# Profile application
